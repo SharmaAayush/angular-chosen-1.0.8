@@ -1,0 +1,14 @@
+{
+  "name": "angular-chosen-1.0.8",
+  "version": "1.0.8",
+  "description": "Fork of https://github.com/leocaseiro/angular-chosen version 1.0.8",
+  "main": "chosen.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
